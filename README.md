@@ -14,13 +14,13 @@
 <p align="center">
   <a href="https://linkedin.com/in/hani-bouhraoua-767a16243"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-<p align="center">  
-   <a href="https://web.telegram.org/a/#1724625108">
+
+  <a href="https://web.telegram.org/a/#1724625108">
       <img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
-   </a>   
+  </a>   
    &#8287;&#8287;&#8287;&#8287;&#8287; 
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourouaiah&label=Profile%20views&color=0077FF&style=flat" alt="bourouaiah" /> </p>
@@ -36,7 +36,7 @@
 
   <a href="https://web.telegram.org/a/#1724625108" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
 
-  <a href="https://github.com/HaniBouhraoua09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
