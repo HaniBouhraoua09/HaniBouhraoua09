@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Computer+Engineering+Student+(ML);Front+End+Web+Development" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Computer+Engineering+Student+(ML);Front+End+Web+Developer" />
   </a>
 </p>
 
@@ -18,10 +18,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourouaiah&label=Profile%20views&color=0077FF&style=flat" alt="bourouaiah" /> </p>
 
-- 🌱 I’m currently learning **Computer Engineering(ML)** and **ReactJS**  <br />
+- 🌱 I’m currently learning **Computer Engineering(ML)** along side **ReactJS**  <br />
 - 👯 I’m looking to collaborate on **Ai and Web Development Projects**  <br />
 - 📫 How to reach me: **hanibouhraoua09@gmail.com**  <br />
-- ⚡ Fun fact: I love developing machine learing models and creating user-friendly designs and turning them into functional, scalable applications!  <br />
+- ⚡ Fun fact: I am passionate in developing machine learing models and creating user-friendly designs and turning them into functional, scalable applications!  <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
