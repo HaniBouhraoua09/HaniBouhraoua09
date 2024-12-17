@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=60&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Computer+Engineering+Student+(ML);Front+End+Web+Development" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=0077FF&center=true&width=435&lines=Computer+Engineering+Student+(ML);Front+End+Web+Development" />
   </a>
 </p>
 
