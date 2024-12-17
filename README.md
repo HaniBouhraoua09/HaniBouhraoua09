@@ -47,7 +47,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://ultralytics.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ultralytics.com%2Fbrand&psig=AOvVaw1daMPckzL0twcOeTyPcKEV&ust=1734558945859000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDW_-Llr4oDFQAAAAAdAAAAABAE" alt="ultralytics" width="40" height="40"/>
+    <img src="https://cdn.prod.website-files.com/646dd1f1a3703e451ba81ecc/6499468f33db295c5a1219ec_Ultralytics_mark_blue.svg" alt="ultralytics" width="40" height="40"/>
   </a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
