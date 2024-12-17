@@ -46,12 +46,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a href="https://ultralytics.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://ultralytics.com/favicon.ico" alt="ultralytics" width="40" height="40"/> 
+  <a href="https://ultralytics.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/ultralytics/assets/raw/main/logo/logo.png" alt="ultralytics" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas" width="40" height="40"/> 
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" alt="pandas" width="40" height="40" style="filter: invert(16%) sepia(100%) saturate(7498%) hue-rotate(171deg) brightness(93%) contrast(101%);"/>
   </a>
+
 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
