@@ -15,7 +15,7 @@
   <a href="https://linkedin.com/in/hani-bouhraoua-767a16243"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="https://web.telegram.org/a/#1724625108">
+  <a href="https://t.me/HaniBouhraoua">
       <img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
   </a>   
    &#8287;&#8287;&#8287;&#8287;&#8287; 
@@ -35,7 +35,7 @@
 
   <a href="https://linkedin.com/in/hani-bouhraoua-767a16243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 
-  <a href="https://web.telegram.org/a/#1724625108" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
+  <a href="https://t.me/HaniBouhraoua" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" /></a>
 
 
 </p>
