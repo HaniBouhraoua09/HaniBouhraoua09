@@ -17,13 +17,13 @@
 </p>
 <p align="center">  
    <a href="https://web.telegram.org/a/#1724625108">
-      <img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/6/67/Telegram_icon_%282019%29.svg"/>
+      <img width="32px" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
    </a>   
    &#8287;&#8287;&#8287;&#8287;&#8287; 
 </p>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourouaiah&label=Profile%20views&color=0077FF&style=flat" alt="bourouaiah" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bourouaiah&label=Profile%20views&color=0077FF&style=flat" alt="bourouaiah" /> </p>
 
 - 🌱 I’m currently learning **Computer Engineering(ML)** along side **ReactJS**  <br />
 - 👯 I’m looking to collaborate on **Ai and Web Development Projects**  <br />
