@@ -25,10 +25,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bourouaiah&label=Profile%20views&color=0077FF&style=flat" alt="bourouaiah" /> </p>
 
-- 🌱 I’m currently learning **Computer Engineering(ML)** along side **ReactJS**  <br />
-- 👯 I’m looking to collaborate on **Ai and Web Development Projects**  <br />
+- 🌱 I’m currently learning **Robotics Engineering ** along side **ReactJS**  <br />
+- 👯 I’m looking to collaborate on **Ai and Robotics Projects**  <br />
 - 📫 How to reach me: **hanibouhraoua09@gmail.com**  <br />
-- ⚡ Fun fact: I am passionate in developing machine learing models and creating user-friendly designs and turning them into functional, scalable applications!  <br />
+- ⚡ Fun fact: I am passionate in developing intelligent system models and creating user-friendly designs and turning them into functional, scalable applications!  <br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
