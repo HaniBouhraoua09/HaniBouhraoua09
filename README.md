@@ -8,11 +8,10 @@
 
 <p align="center">
   <a href="https://github.com/HaniBouhraoua09">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=0077FF&center=true&width=600&lines=Master's+Student+in+Robotics+Engineering;Machine+Learning+&+AI;Front-End+Web+Developer" alt="Titles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1000&pause=1000&color=0077FF&center=true&width=650&lines=Master's+Student+in+Robotics;Computer+Engineering+Student;Artificial+Intelligence+&+Machine+Learning" alt="Titles" />
   </a>
 </p>
 
-<!-- Social icons section -->
 <p align="center">
   <a href="https://linkedin.com/in/hani-bouhraoua-767a16243"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -30,7 +29,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working on:** Multi-modal tactile material classification systems and robotic task planning.
-- 🌱 **Currently learning:** Advanced Robotics Engineering concepts (ROS, PDDL) alongside **ReactJS**.
+- 🌱 **Currently learning:** Advanced Robotics Engineering concepts (ROS2 , PDDL, RTOS , Embedded Systems).
 - 👯 **Looking to collaborate on:** AI, Robotics, and digital signal processing projects.
 - 📫 **How to reach me:** **hanibouhraoua09@gmail.com**
 - ⚡ **Fun fact:** I am passionate about bridging the gap between intelligent system models and user-friendly designs to create scalable, functional applications!
@@ -41,6 +40,12 @@
 
 **Robotics, AI & Data Science**
 <p align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" title="C"/> 
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" title="C++"/> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" title="Python"/> 
   </a>
@@ -64,11 +69,9 @@
   </a>
 </p>
 
-**Languages & Web Development**
+**Other skills and Languages**
 <p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40" title="C++"/> 
-  </a>
+
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" title="Java"/> 
   </a>
@@ -85,12 +88,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" title="Git"/> 
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HaniBouhraoua09&show_icons=true&theme=dark&locale=en&hide_border=true" alt="HaniBouhraoua09's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HaniBouhraoua09&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
-</div>
