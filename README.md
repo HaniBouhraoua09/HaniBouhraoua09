@@ -28,11 +28,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Multi-modal tactile material classification systems and robotic task planning.
+- 🔭 **Currently working on:** Studying Robotics Engineering (Master's degree) in GENOVA, Italy.
 - 🌱 **Currently learning:** Advanced Robotics Engineering concepts (ROS2 , PDDL, RTOS , Embedded Systems).
-- 👯 **Looking to collaborate on:** AI, Robotics, and digital signal processing projects.
+- 👯 **Looking to collaborate on:** AI, Robotics, DSP ,and Embedded systems projects.
 - 📫 **How to reach me:** **hanibouhraoua09@gmail.com**
-- ⚡ **Fun fact:** I am passionate about bridging the gap between intelligent system models and user-friendly designs to create scalable, functional applications!
+- ⚡ **Fun fact:** I am passionate about bridging the gap between intelligent system models and user-friendly designs to create scalable, functional systems!
 
 ---
 
