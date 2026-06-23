@@ -29,7 +29,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 **Currently working:** Studying Robotics Engineering (Master's degree) in GENOVA, Italy.
-- 🌱 **Currently learning:** Advanced Robotics Engineering concepts (ROS2 , PDDL, RTOS , Embedded Systems).
+- 🌱 **Currently learning:** Advanced Robotics Engineering concepts (ROS2, RTOS , Embedded Systems , Ai 4 Robotics (PDDL+)).
 - 👯 **Looking to collaborate on:** AI, Robotics, DSP ,and Embedded systems projects.
 - 📫 **How to reach me:** **hanibouhraoua09@gmail.com**
 - ⚡ **Fun fact:** I am passionate about bridging the gap between intelligent system models and user-friendly designs to create scalable, functional systems!
